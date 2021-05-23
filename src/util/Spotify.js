@@ -1,5 +1,5 @@
 const clientId = "71b47624a3154f66b94eaa8fb95b2bdb";
-const redirectUri = "http://localhost:3000";
+const redirectUri = "https://nefkaracam.github.io/jamming";
 
 let accessToken;
 
