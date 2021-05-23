@@ -1,23 +1,16 @@
 {
   "files": {
-    "main.css": "/jamming/static/css/main.99dcbd73.chunk.css",
-    "main.js": "/jamming/static/js/main.3ab34e07.chunk.js",
-    "main.js.map": "/jamming/static/js/main.3ab34e07.chunk.js.map",
-    "runtime-main.js": "/jamming/static/js/runtime-main.20b02aec.js",
-    "runtime-main.js.map": "/jamming/static/js/runtime-main.20b02aec.js.map",
-    "static/js/2.1f9d227d.chunk.js": "/jamming/static/js/2.1f9d227d.chunk.js",
-    "static/js/2.1f9d227d.chunk.js.map": "/jamming/static/js/2.1f9d227d.chunk.js.map",
-    "static/js/3.6f161e74.chunk.js": "/jamming/static/js/3.6f161e74.chunk.js",
-    "static/js/3.6f161e74.chunk.js.map": "/jamming/static/js/3.6f161e74.chunk.js.map",
+    "main.css": "/jamming/static/css/main.2de96377.chunk.css",
+    "main.js": "/jamming/static/js/main.44f1c883.chunk.js",
+    "main.js.map": "/jamming/static/js/main.44f1c883.chunk.js.map",
+    "runtime~main.js": "/jamming/static/js/runtime~main.6e9a7a58.js",
+    "runtime~main.js.map": "/jamming/static/js/runtime~main.6e9a7a58.js.map",
+    "static/js/2.78dc8e51.chunk.js": "/jamming/static/js/2.78dc8e51.chunk.js",
+    "static/js/2.78dc8e51.chunk.js.map": "/jamming/static/js/2.78dc8e51.chunk.js.map",
     "index.html": "/jamming/index.html",
-    "static/css/main.99dcbd73.chunk.css.map": "/jamming/static/css/main.99dcbd73.chunk.css.map",
-    "static/js/2.1f9d227d.chunk.js.LICENSE.txt": "/jamming/static/js/2.1f9d227d.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/jamming/static/media/background_photo_desktop.a0687f3f.jpg"
-  },
-  "entrypoints": [
-    "static/js/runtime-main.20b02aec.js",
-    "static/js/2.1f9d227d.chunk.js",
-    "static/css/main.99dcbd73.chunk.css",
-    "static/js/main.3ab34e07.chunk.js"
-  ]
+    "precache-manifest.8f1044f6bd2488c2fbb0238e814c24bf.js": "/jamming/precache-manifest.8f1044f6bd2488c2fbb0238e814c24bf.js",
+    "service-worker.js": "/jamming/service-worker.js",
+    "static/css/main.2de96377.chunk.css.map": "/jamming/static/css/main.2de96377.chunk.css.map",
+    "static/media/App.css": "/jamming/static/media/background_photo_desktop.37be7357.jpg"
+  }
 }
