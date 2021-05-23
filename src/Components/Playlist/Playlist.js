@@ -1,8 +1,8 @@
-import React from "react";
+import React from 'react';
 
-import "./Playlist.css";
+import './Playlist.css';
 
-import TrackList from "../TrackList/TrackList";
+import TrackList from '../TrackList/TrackList';
 
 class Playlist extends React.Component {
   constructor(props) {
@@ -18,15 +18,11 @@ class Playlist extends React.Component {
   render() {
     return (
       <div className="Playlist">
-        <input defaultValue={"New Playlist"} onChange={this.handleNameChange} />
-        <TrackList
-          tracks={this.props.playlistTracks}
-          onRemove={this.props.onRemove}
-          isRemoval={true}
-        />
-        <button className="Playlist-save" onClick={this.props.onSave}>
-          SAVE TO SPOTIFY
-        </button>
+        <input onChange={this.handleNameChange} defaultValue={'New Playlist'} />
+        <TrackList tracks={this.props.playlistTracks}
+                   isRemoval={true}
+                   onRemove={this.props.onRemove} />
+        <button className="Playlist-save" onClick={this.props.onSave}>SAVE TO SPOTIFY</button>
       </div>
     );
   }
