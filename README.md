@@ -1,4 +1,4 @@
-<img src="screenshot.png" />
+<img src="screenshot.jpg" />
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
